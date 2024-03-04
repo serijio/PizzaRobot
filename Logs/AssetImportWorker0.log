@@ -1,0 +1,149 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.6f1 (338bb68529b2) revision 3378102'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 22631.3155; Version 2009; 64bit' Language: 'es' Physical Memory: 16125 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/Mxlky/OneDrive/Escritorio/Pizza_Attempt01
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+58238
+Successfully changed project path to: C:/Users/Mxlky/OneDrive/Escritorio/Pizza_Attempt01
+C:/Users/Mxlky/OneDrive/Escritorio/Pizza_Attempt01
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 12.97 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.6f1 (338bb68529b2)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Mxlky/OneDrive/Escritorio/Pizza_Attempt01/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1660 SUPER (ID=0x21c4)
+    Vendor:   
+    VRAM:     5992 MB
+    Driver:   31.0.15.1694
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56824
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001176 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 12.76 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.589 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000552 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.12 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.436 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 0.13 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1116 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.6 MB.
+System memory in use after: 57.6 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1559.
+Total: 0.950700 ms (FindLiveObjects: 0.070400 ms CreateObjectMapping: 0.018800 ms MarkObjects: 0.810200 ms  DeleteObjects: 0.050400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000431 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.12 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.420 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.11 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1111 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.5 MB.
+System memory in use after: 57.6 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1562.
+Total: 0.961900 ms (FindLiveObjects: 0.076900 ms CreateObjectMapping: 0.015600 ms MarkObjects: 0.836800 ms  DeleteObjects: 0.031600 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Scrip.cs
+  artifactKey: Guid(7edbac6f6ffb6704281d0e5c4410d1a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scrip.cs using Guid(7edbac6f6ffb6704281d0e5c4410d1a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62105e7952f5c5c64e95cf60a6d06a9c') in 0.011855 seconds
+  Import took 0.013024 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000549 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.413 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.10 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1110 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.5 MB.
+System memory in use after: 57.6 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1564.
+Total: 1.026400 ms (FindLiveObjects: 0.077600 ms CreateObjectMapping: 0.016100 ms MarkObjects: 0.905400 ms  DeleteObjects: 0.026200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 935.296184 seconds.
+  path: Assets/Modelos/mesa mapeada.fbx
+  artifactKey: Guid(6352053fca3063f4c8d97a1a40d11534) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modelos/mesa mapeada.fbx using Guid(6352053fca3063f4c8d97a1a40d11534) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93b36f8ed0153ecc05520ef0ab736a03') in 0.097345 seconds
+  Import took 0.099364 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000153 seconds.
+  path: Assets/Modelos/silla mapeada.fbx
+  artifactKey: Guid(013e5f090e3060849a41f97f45231439) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modelos/silla mapeada.fbx using Guid(013e5f090e3060849a41f97f45231439) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4c23a5695c77885f654a2906147bdc3') in 0.027092 seconds
+  Import took 0.028312 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1668.894114 seconds.
+  path: Assets/Modelos/maquina mapeado.fbx
+  artifactKey: Guid(f24afbe1388ecd84eb545e04b8de1a95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modelos/maquina mapeado.fbx using Guid(f24afbe1388ecd84eb545e04b8de1a95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ec8dab56a31b5eb1de9adb770196b32') in 0.054826 seconds
+  Import took 0.056880 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.095953 seconds.
+  path: Assets/Modelos/RECIPIENTE 2 MAPEADO.fbx
+  artifactKey: Guid(cc98ed51edfcae14d9b41c075e49076b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modelos/RECIPIENTE 2 MAPEADO.fbx using Guid(cc98ed51edfcae14d9b41c075e49076b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8b66b96ff3e85f4cd8400908d118015') in 0.018315 seconds
+  Import took 0.019793 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
